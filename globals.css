@@ -79,7 +79,7 @@
 /* Font Definitions */
 @font-face {
   font-family: 'Loos';
-  font-style: extra-light;
+  font-style: normal;
   font-weight: 200;
   src:
     local('Loos ExtraLight'),
@@ -97,7 +97,7 @@
 
 @font-face {
   font-family: 'Loos';
-  font-style: medium;
+  font-style: normal;
   font-weight: 500;
   src:
     local('Loos Medium'),
@@ -106,7 +106,7 @@
 
 @font-face {
   font-family: 'Loos';
-  font-style: bold;
+  font-style: normal;
   font-weight: 700;
   src:
     local('Loos Bold'),
@@ -115,7 +115,7 @@
 
 @font-face {
   font-family: 'Loos';
-  font-style: black;
+  font-style: normal;
   font-weight: 900;
   src:
     local('Loos Black'),
